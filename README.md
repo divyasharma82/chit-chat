@@ -5,17 +5,7 @@ npm start run
 
 
 ![Screenshot (1222)](https://user-images.githubusercontent.com/122516735/215248717-aba15178-7c9b-455f-b1f3-958bc3d157f2.png)
-
-Login using Google Authentication 
-![Screenshot (1224)](https://user-images.githubusercontent.com/122516735/215248780-e3abda71-c3c3-48d1-a0c3-64527e71365f.png)
-
-Sign Up using google Authentication
-![Screenshot (1215)](https://user-images.githubusercontent.com/122516735/215249064-392598af-e09c-49aa-9a90-8cd9d96b7888.png)
-
-Prfile Page
-
-![Screenshot (1227)](https://user-images.githubusercontent.com/122516735/215248787-3607e2ef-5bfa-4702-9f87-c7d1045e6b46.png)
-Chat Section
-![Screenshot (1231)](https://user-images.githubusercontent.com/122516735/215248799-fb738487-0a5f-4fe1-8446-7e32c3585c50.png)
-file Upload
-![Screenshot (1224)](https://user-images.githubusercontent.com/122516735/215248811-27189af3-8a20-4764-886f-15e99c3c9e98.png)
+![Screenshot (1223)](https://user-images.githubusercontent.com/122516735/215249112-330f2b4d-79c2-4a05-ad17-72ecb13a992c.png)
+![Screenshot (1224)](https://user-images.githubusercontent.com/122516735/215249117-05ff3c6a-fd93-4c92-92a7-45c30aa7bad6.png)
+![Screenshot (1225)](https://user-images.githubusercontent.com/122516735/215249119-47a06ed2-4a35-4ed8-bb9d-0bf8007100e3.png)
+![Screenshot (1231)](https://user-images.githubusercontent.com/122516735/215249131-08f610cd-b625-430e-801b-5f97df327c72.png)
