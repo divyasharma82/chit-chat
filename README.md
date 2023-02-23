@@ -1,8 +1,4 @@
-# chit-chat-MERN(Project)-DUE To my Card issue i m not able to deploy project on cloud please watch demo- on youtube-  more updates i will do in future like audio call and video calling and also trying to remove some bugs like status of the user like ...user is offline or online.
-THIS is MERN(Mongo,Express,react,node) based messaging  application with google authentication with real time chat and also one can share file like pdf ,images.
-
-npm start run
-
+npm start 
 
 ![Screenshot (1222)](https://user-images.githubusercontent.com/122516735/215248717-aba15178-7c9b-455f-b1f3-958bc3d157f2.png)
 ![Screenshot (1223)](https://user-images.githubusercontent.com/122516735/215249112-330f2b4d-79c2-4a05-ad17-72ecb13a992c.png)
